@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tak099
 - 👀 I’m interested in AI & ML 
 - 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on the project with the required Data
+- 💞️ I’m looking to collaborate on the project that required Data
 - 📫 How to reach me by text
 
 <!---
